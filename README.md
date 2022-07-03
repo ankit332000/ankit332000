@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankit332000 AnkitKumar Das
 - 👀 I’m interested in Data Science and to be a coder
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m graduate in B.E of Computer Engineering
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me :
 - My linked Profile - https://www.linkedin.com/in/ankitkumar-das-b2865a206/
 
